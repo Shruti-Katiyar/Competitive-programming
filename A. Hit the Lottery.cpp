@@ -1,4 +1,4 @@
-//A. Hit the Lotterys
+//A. Hit the Lottery
 //https://codeforces.com/problemset/problem/996/A
 
 #include<iostream>
