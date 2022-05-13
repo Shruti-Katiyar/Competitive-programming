@@ -1,4 +1,4 @@
-//A. Calculating Functions
+//A. Calculating Functionss
 //https://codeforces.com/problemset/problem/486/A
 
 #include<iostream>
