@@ -1,4 +1,5 @@
 //A. Calculating Function
+jjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjjj
 //https://codeforces.com/problemset/problem/486/A
 
 #include<iostream>
