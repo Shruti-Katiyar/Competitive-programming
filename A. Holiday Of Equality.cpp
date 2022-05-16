@@ -1,4 +1,4 @@
-//A. Holiday Of Equality
+//A. Holiday Of Equalitys
 //https://codeforces.com/problemset/problem/758/A
 
 #include<iostream>
