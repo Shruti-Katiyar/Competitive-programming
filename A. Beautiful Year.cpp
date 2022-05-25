@@ -1,4 +1,4 @@
-//A. Beautiful Year
+//A. Beautiful Years
 //https://codeforces.com/problemset/problem/271/A
 
 #include <iostream>
