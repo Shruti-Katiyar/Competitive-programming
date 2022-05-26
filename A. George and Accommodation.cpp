@@ -1,4 +1,4 @@
-//A. George and Accommodation
+//A. George and Accommodations
 //https://codeforces.com/problemset/problem/467/A
 
 #include<bits/stdc++.h>
