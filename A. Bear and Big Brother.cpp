@@ -1,4 +1,4 @@
-//A. Bear & Big Brother
+//A. Bear and Big Brother
 //https://codeforces.com/problemset/problem/791/A
 #include<iostream>
 using namespace std;
