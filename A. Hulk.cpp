@@ -1,4 +1,4 @@
-//A. Hulks
+//A. Hulk
 //https://codeforces.com/problemset/problem/705/A
 
 #include <iostream>
