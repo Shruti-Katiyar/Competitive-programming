@@ -1,5 +1,6 @@
 //A. Bear and Big Brothers
 //https://codeforces.com/problemset/problem/791/A
+
 #include<iostream>
 using namespace std;
 int main(){
